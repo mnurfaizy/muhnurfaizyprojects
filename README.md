@@ -10,6 +10,7 @@ Welcome to my GitHub portfolio! This repository showcases a collection of projec
 |**Project Link**|**Tools**|**Project Descriptions**|
 |---|---|---|
 |[Campaign Performance Dashboard](https://github.com/Izzyyka/ABCJewelryCampaignPerformanceDashboard/blob/main/README.md)|Tableau|An interactive dashboard for campaign performance analysis, built using Tableau. This tool visualizes key metrics to help understand campaign effectiveness and support data-driven decision-making.|
+|[Sales Report Dashboard](https://github.com/Izzyyka/Sales-Report-Dashboard)|Power BI|An interactive sales performance dashboard built with Looker Studio. This tool visualizes key metrics, including monthly revenue, profit trends, top-selling product categories, and regional sales distribution, providing valuable insights to drive data-driven decisions and optimize sales strategies.|
 <!---
 Izzyyka/Izzyyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
