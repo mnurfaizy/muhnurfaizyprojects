@@ -10,6 +10,7 @@ Welcome to my GitHub portfolio! This repository showcases a collection of projec
 |**Project Link**|**Tools**|**Project Descriptions**|
 |---|---|---|
 |[Machine Learning for Diabetes Detection](https://github.com/mnurfaizy/diabetes_prediction)|python, google colab, scikit-learn, pandas, matplotlib, seaborn|This project explores a diabetes dataset to uncover significant factors influencing the condition. Additionally, the project involves implementing multiple classification models and comparing their accuracy to identify the most effective predictive approach.|
+|[Credit Risk Prediction](https://github.com/mnurfaizy/Credit_Analysis_and_Prediction) Associated with Rakamin Academy X IDX Partnerts|python, google colab, scikit-learn, pandas, matplotlib, seaborn|This project focuses on developing a machine learning-based credit risk prediction model to enhance loan approval decisions and minimize financial losses. By leveraging a dataset containing 466,285 loan applications with 75 features, we analyzed key risk factors, performed rigorous data preprocessing, and tested multiple classification models to accurately predict loan default probability..|
 
 ## 📂Dashboard
 |**Project Link**|**Tools**|**Project Descriptions**|
